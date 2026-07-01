@@ -1,4 +1,4 @@
-# UBD 跨域課程設計 Skill
+# UbD 跨域課程設計 Skill
 
 這是一個可重複使用的 ChatGPT / Codex Skill，協助教師依據臺灣十二年國民基本教育課程綱要，運用 UbD 逆向教學設計、PBL 專題導向學習、K-U-D 學習目標、GRASPS 表現任務與 Rubrics 評量規準，快速產出跨領域素養導向課程設計。
 
