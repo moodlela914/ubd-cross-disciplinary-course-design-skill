@@ -3,7 +3,7 @@ name: ubd-cross-disciplinary-course-design
 description: 協助教師依據臺灣十二年國教108課綱，運用逆向教學設計 UbD、專題導向學習 PBL、K-U-D、GRASPS 與 Rubrics，產出跨領域素養導向課程設計。
 ---
 
-# UBD 跨域課程設計 Skill
+# UbD 跨域課程設計 Skill
 
 ## 1. Skill 用途
 
